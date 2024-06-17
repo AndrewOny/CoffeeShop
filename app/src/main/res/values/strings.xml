@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">CoffeeShop</string>
+    <string name="espresso">Espresso</string>
+    <string name="espresso_btn">Espresso</string>
+        <string name="espresso_des">The espresso, also known as a short black, is approximately 1 oz. of highly concentrated coffee. Although simple in appearance, it can be difficult to master</string>
+    <string name="americano">Americano</string>
+    <string name="americano_btn">Americano</string>
+        <string name="americano_des">Americano are popular breakfast drinks and thought to have originated during World War II. Soldiers would add water to their coffee to extend their rations farther.</string>
+    <string name="latte">Cafe Latte</string>
+    <string name="latte_btn">Cafe Latte</string>
+        <string name="latte_des">Cafe lattes are considered an introductory coffee drink since the acidity and bitterness of coffee are cut by the amount of milk in the beverage. </string>
+    <string name="cappuccino">Cappuccino</string>
+    <string name="cappuccino_btn">Cappuccino</string>
+        <string name="cappuccino_des">This creamy coffee drink is usually consumed at breakfast and is loved in the World. It is usually associated with indulgence and comfort because of its thick foam layer.</string>
+    <string name="flat_white">Flat White</string>
+    <string name="flat_white_btn">Flat White</string>
+        <string name="flat_white_des">A flat white also originates from New Zealand and is very similar to a cappuccino but lacks the foam layer and chocolate powder. The drink is creamy rather than frothy.</string>
+    <string name="small_title">Choose what you want:</string>
+    <string name="raf">Raf Coffee</string>
+    <string name="raf_btn">Raf Coffee</string>
+        <string name="raf_des">The main peculiarity of is the drink thick and incredibly delicate. Rich aroma of espresso and gentle creamy vanilla flavor mix in this special coffee drink whipped into soft foam.</string>
+    <string name="size">Cup Sizes</string>
+    <string name="snacks">Snacks</string>
+    <string name="demi">Demi</string>
+    <string name="shortt">Short</string>
+    <string name="tall">Tall</string>
+    <string name="grande">Grande</string>
+    <string name="venti">Venti</string>
+    <string name="trenta">Trenta</string>
+    <string name="pizza">Pizza</string>
+        <string name="pizza_des">Pepperoni: Italian salami sausage with pork and beef, seasoned spicy, air-dried, renowned pizza topping.</string>
+    <string name="donut">Donut</string>
+        <string name="donut_des"> Dive into pure bliss with our handcrafted donuts! Indulge in a moment of delight with our irresistible creations! </string>
+    <string name="cake">Cake</string>
+        <string name="cake_des"> Each slice is a celebration of flavor. Make every moment sweeter with our irresistible cakes!</string>
+    <string name="croissant">Croissant</string>
+        <string name="croissant_des">Savor perfection with our buttery croissants! Treat yourself to pure bliss with our irresistible pastries! </string>
+    <string name="thanks">Thank You!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
